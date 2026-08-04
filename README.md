@@ -72,33 +72,16 @@ fun_fact: "Always debugging something — code or life."
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vidhan-tr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhan-tr&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhan-tr&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vidhan-tr&theme=tokyonight" width="49%"/>
-</div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vidhan-tr&theme=tokyo-night&hide_border=true" width="98%"/>
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vidhan-tr&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vidhan-tr&theme=tokyonight&hide_border=true&layout=compact" width="60%"/>
-</div>
 
 <br/>
 
-
-
-*(links are placeholders — swap in your handles once profiles are set up)*
 
 </div>
 
@@ -120,7 +103,7 @@ DSA (500 problem goal)  ████░░░░░░  40%
 
 ## 🏅 Achievements
 
-- ☁️ Exploring **AI** & **** fundamentals
+- ☁️ Exploring **AI** & **ML** fundamentals
 - 🏆 Actively participating in **Hackathons**
 - 📜 Working toward relevant **Certifications**
 - 🤝 Contributing to **Open Source** projects
@@ -155,8 +138,6 @@ DSA (500 problem goal)  ████░░░░░░  40%
 <div align="center">
 <img src="https://raw.githubusercontent.com/vidhan-tr/vidhan-tr/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
-
-> ℹ️ The snake animation needs a one-time GitHub Actions setup in your profile repo. See `snake.yml` below.
 
 <br/>
 
